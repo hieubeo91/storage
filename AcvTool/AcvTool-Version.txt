@@ -1,7 +1,28 @@
-Alo alo
-1234
-fdgdg
-dffg
-dfg
-dfg
-fdg
+========================================================================
+                               ACV TOOL
+========================================================================
+
+[Phiên bản hiện tại]: v1.0
+[Ngày cập nhật cuối]: 27/05/2025
+[Nhà phát triển    ]: HieuBeo (fb.com/nguyenvanhieuhp)
+[Nền tảng hỗ trợ   ]: Windows
+
+------------------------------------------------------------------------
+1. APP DESCRIPTION
+------------------------------------------------------------------------
+Acv Tool là phần mềm giải nén/nén file data *.acv của game Audition PC.
+Hỗ trợ nghiên cứu, chỉnh sửa và quản lý dữ liệu của game.
+Các tính năng cốt lõi:
+- Giải nén/Nén lại file .acv
+- Tự động nhận diện thế hệ file .acv
+- Tự động xử lý hàng loạt
+
+------------------------------------------------------------------------
+2. VERSION HISTORY
+------------------------------------------------------------------------
+*** PHIÊN BẢN v1.0 (Cập nhật: 27/05/2025) ***
+[+] Chức năng mới:
+    - Hỗ trợ Giải nén/Nén file *.acv của máy chủ Việt Nam (VTC Game) và
+      máy chủ Hàn Quốc (Hanbiton)
+
+========================================================================
